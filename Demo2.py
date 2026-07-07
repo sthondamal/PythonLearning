@@ -6,6 +6,7 @@ print(values[-1])
 print(values[0:6])
 
 values.insert(3, "santhosh")
+values.reverse()
 print(values)
 
 values.append("last")
